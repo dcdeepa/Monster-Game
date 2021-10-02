@@ -14,7 +14,7 @@ let CurrentPlayerHealth = ChosenMaximumLife;
 
 
 adjustHealthBars(ChosenMaximumLife);
-
+<!--this function is for handling the attack-->
 function AttackHandler(mode)
 {
     let maxdamage;
