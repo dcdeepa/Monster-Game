@@ -1,3 +1,5 @@
+<!--this is monter killing game-->
+<!--We are adding attack maximum value in it-->
 const AttackValue = 10;
 const MonsterAttackValue = 14;
 const StronAttackValue = 18;
