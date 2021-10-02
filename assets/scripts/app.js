@@ -1,3 +1,4 @@
+<!--this are the constant attack values-->
 const AttackValue = 10;
 const MonsterAttackValue = 14;
 const StronAttackValue = 18;
